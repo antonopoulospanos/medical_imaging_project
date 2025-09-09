@@ -1,0 +1,30 @@
+
+.DS_Store
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venvs/
+A2_VENV/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Sphinx
+_build/
+
+data/
+
+Module1/
+Module2/
+Module3/
